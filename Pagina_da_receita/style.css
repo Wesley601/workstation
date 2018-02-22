@@ -1,0 +1,58 @@
+hr{
+	width: 313px;
+}
+body{
+	background-color:#FFFFFF;
+	margin:0;
+}
+.topo{
+	background-color: #696969;
+	width: 100%;
+	height: 180px;
+	border-bottom: 1px solid #000000;
+}
+.topo h1{
+	text-align: center;
+}
+.topo img{
+	width: 100px;
+	height: 100px;
+	margin-top: 10px; 	
+}
+.menu{
+	background-color: #808080;
+	width: 150px;
+	height: 100%;
+	float: left;
+	border-right: 1px solid #000000;
+}
+.texto {
+	width: 1200;
+	height: 85px;
+	margin-left: 170px;
+}
+.texto p{
+	text-align: justify;
+}
+.bolinho {
+	background-color: #FFF1D6; 
+	margin-top: 20px;
+	margin-left: 170px;
+	width: 800px;
+	border: 1px solid #000000;
+}
+.bolinho h2{
+		border-bottom: 1px dashed #000000;
+		margin: 0;
+	}
+.bolinho pre{
+	text-align: justify;
+	font-family: arial;
+}
+.bolinho a{
+	color:#2C88A7;
+}
+.tabela{
+	margin-left:430px;
+	margin-top:20px;
+}
