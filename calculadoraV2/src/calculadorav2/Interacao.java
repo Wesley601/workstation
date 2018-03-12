@@ -84,7 +84,7 @@ public class Interacao extends Formulas{
        System.out.println("Potencia reativa dezejada: "+ getQd());
        System.out.println("Diferença: "+ (getQd() - getQa()));
        System.out.println("Xcap: "+ getXcap());
-       System.out.println("CapQ: "+ getCeQ()*1000 +"mf");
+       System.out.println("CapQ: "+ getCeQ()*1000000 + "\u00B5f");
        
        
    }

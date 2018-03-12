@@ -11,7 +11,7 @@ package calculadorav2;
  * @author wesley
  */
 // Qa = potencia reativa
-public class Formulas {
+public abstract class Formulas {
     private double Qd;
     private double Qa;
     private double Z;
